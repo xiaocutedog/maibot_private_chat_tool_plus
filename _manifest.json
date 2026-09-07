@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "id": "github.xiaocutedog.private-chat-tool-plus",
   "version": "0.1.0",
-  "name": "私聊传声筒 Plus",
+  "name": "主动私聊工具 Plus",
   "description": "无限制的主动私聊转达工具：支持多轮来回对话、自动人称（可匿名）、发送结果反馈、对方回复自动回传提问结果。基于自然语言由 Planner/Replyer 驱动，不修改 Napcat 适配器。",
   "author": {
     "name": "xiaocutedog",
