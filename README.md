@@ -1,4 +1,4 @@
-# 私聊传声筒 Plus (maibot_private_chat_tool_plus)
+# 主动私聊工具 Plus (maibot_private_chat_tool_plus)
 
 一个 MaiBot 插件：把「主动私聊」从只能发首条消息，升级为**多轮来回的传声筒**（"无限制"指对话轮次不受首条消息限制；使用仍受管理员配置的授权名单与频率限制约束）。全部交互基于自然语言，由 Planner 与 Replyer 驱动；不修改 Napcat 适配器本体，只通过其公开 API 与宿主能力协作。
 
